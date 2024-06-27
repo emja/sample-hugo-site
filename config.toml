@@ -17,6 +17,9 @@ title = "Cyber IT Solutions"
 # enable emoji processing in Markdown (valid only for pure markdown content)
 enableEmoji = true
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
 
