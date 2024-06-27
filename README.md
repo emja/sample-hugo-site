@@ -1,1 +1,1 @@
-View this site at https://mattcen.github.io/sample-hugo-site
+View this site at https://emja.github.io/sample-hugo-site
