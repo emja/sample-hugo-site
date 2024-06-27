@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: "images/favicon.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Cyber IT Solutions"
+header_headline: "Cyber IT Solutions Pty Ltd"
 header_subheadline: "Australia’s Leading Linux and Open Source Technology Consultancy Firm"
 
 # Add a 'Go back to top' item to the navigation menu
