@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://www.cyber.com.au"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = "Cyber IT Solutions"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -38,21 +38,21 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Jane Doe - Nutrition Coach & Chef Consultant"
+    title = "Cyber IT Solutions"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "Australia's Leading Linux and Open Source Technology Consultancy Firm"
 
     # Show a menu of languages available
-    language_menu = true
+    language_menu = false
 
     # Show also a language menu item for the current language, if false only
     # show the remaining languages
-    show_current_lang = true
+    show_current_lang = false
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Jane Doe"
+    copyright = "© Cyber IT Solutions"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -60,7 +60,7 @@ enableEmoji = true
 
     # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
     invertSectionColors = false
-    
+
     [params.footer]
     # Show contact icons for email/phone (if specified) in the footer of the page
     showContactIcons = false
@@ -73,14 +73,14 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "phone"
-        value = "+49 1111 555555"
-        url = "tel:+49 1111 555555"
+        value = "+613 7019 4225"
+        url = "tel:+61370194225"
         icon = "fa fa-phone"
 
     [[params.contacts]]
         label = "email"
-        value = "mail@janedoe.com"
-        url = "mailto:mail@janedoe.com"
+        value = "info@cyber.com.au"
+        url = "mailto:info@cyber.com.au"
         icon = "fa fa-envelope"
 
     # Add additional contacts here!
@@ -96,9 +96,3 @@ enableEmoji = true
     weight = 10
     languageName = "English"
     contentDir = "content/en"
-
-  [languages.de]
-    title = "Erika Musterfrau - Ernährungshilfe & Kochberatung"
-    weight = 20
-    contentDir = "content/de"
-    languageName = "Deutsch"
