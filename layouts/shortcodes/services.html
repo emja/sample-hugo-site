@@ -1,0 +1,9 @@
+{{ $services := .Site.GetPage "/services" }}
+
+{{ range $services.Pages }}
+  <div class="service-section">
+    <img src="{{ .Params.service_image }}" />
+    <h3>{{ .Title }}</h3>
+    {{ .Content }}
+  </div>
+{{ end }}
