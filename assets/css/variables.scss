@@ -46,3 +46,8 @@
     /* define list element for unnumbered lists, leave empty for default list element */
     --ul-li-icon: fa-asterisk;
 }
+
+/* FIXME: This is not the right place for this! */
+div.service-section {
+    background-color: white;
+}
