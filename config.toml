@@ -17,11 +17,10 @@ title = "Cyber IT Solutions"
 # enable emoji processing in Markdown (valid only for pure markdown content)
 enableEmoji = true
 
-[markup.goldmark.renderer]
-    unsafe = true
-
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
+
+    un_static_endpoint_reference = "3dbeda8d277792abdabff98d1f7a7a976fce06de"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
