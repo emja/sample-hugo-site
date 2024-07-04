@@ -4,7 +4,7 @@ header_menu_title: "Systems Support and Maintenance"
 navigation_menu_title: "Systems Support and Maintenance"
 weight: 3
 header_menu: false
-service_image: "/images/systems-support-and-maintenance.webp" 
+service_image: "images/systems-support-and-maintenance.webp" 
 ---
 
 We provide on-call ad-hoc support services as well as deterministic Service Level Agreements (SLAs) and proactive maintenance agreements. Many of our customers enjoy the certainty and confidence provided by our 24x7 monitoring of their systems.

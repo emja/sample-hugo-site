@@ -4,7 +4,7 @@ header_menu_title: "Web and Application Development"
 navigation_menu_title: "Web and Application Development"
 weight: 3
 header_menu: false
-service_image: "/images/web-and-application-development.webp"
+service_image: "images/web-and-application-development.webp"
 ---
 
 Often expensive 'one size fits all' software simply doesn't meet your business requirements. Collaborate with our consultants to adapt or build a solution for you.

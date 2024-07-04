@@ -4,7 +4,7 @@ header_menu_title: "Consulting and Systems Integration"
 navigation_menu_title: "Consulting and Systems Integration"
 weight: 3
 header_menu: false
-service_image: "/images/consulting-and-systems-integration.webp"
+service_image: "images/consulting-and-systems-integration.webp"
 ---
 
 Businesses are increasingly moving office IT systems online to hosted services and cloud-based solutions, enabling more flexibility for staff and leveraging the savings of infrastructure consolidation.
