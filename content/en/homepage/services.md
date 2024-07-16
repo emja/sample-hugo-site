@@ -6,24 +6,48 @@ weight: 2
 header_menu: true
 ---
 
-Cyber IT Solutions offers your organisation quality technical resources for systems support and software development, and a dedicated team of experienced network and system administrators committed to meeting delivery deadlines, budget allocations and other business IT objectives.  Our team is available to help build, configure and maintain your IT platforms and networks. We provide pro-active on-site and remote systems management, system administration and tuning, and support most Linux distributions and their integration with Windows technologies.
+# Cyber IT Solutions
 
-Our team has extensive experience successfully delivering IT projects for organisations both large and compact across a range of industry sectors, including high-security government facilities, traditional brick-and-mortar businesses, online businesses, and non-profit ventures.
+## Empowering IT with Open Source Excellence
 
-Our senior staff provide strategic consulting services informed by our deep expertise in the leading open source tools and techniques, ensuring your organisation keeps up-to-date with technology advances and stays ahead of emerging security threats.
+At Cyber IT Solutions, we provide professional technical resources for systems
+support and software development. Our team of seasoned network and
+system administrators is committed to meeting your deadlines, budgets, and IT
+objectives.
 
-Our experience working on high-security projects for many government and corporate clients has given us a unique set of skills. We have specialist consultancy, deep support capabilities and development expertise across the following:
+We specialise in building, configuring, and maintaining IT platforms and
+networks with pro-active on-site and remote management. Our expertise spans
+most Linux distributions, core open source technologies, and seamless integration with Windows.
 
-- Remote infrastructure management, software maintenance and fault rectification
-- ISM-compliant levels of server hardening and security best-practice
-- System recovery following hardware failure, data corruption, and security breaches​
-- Postfix, Sendmail, and Dovecot email
-- PostgreSQL, MySQL/MariaDB data platforms
-- Core Internetworking services including OpenLDAP, BIND/DNS,
-- Samba-SMB/CIFS, Active Directory, Apache, Squid
-- Linux virtualisation and container technologies including Qemu/KVM, LXC, OpenVZ, Docker, Proxmox (migration from ESXi, etc)
-- Linux-on-Cloud (AWS, Google, Azure, Digital Ocean, etc) system administration and migration services
-- Support and migration services for Solaris and other legacy Unix platforms
+Our experience includes delivering successful IT projects across diverse
+sectors, from high-security government facilities to non-profits. Our senior
+staff offers strategic consulting to keep your organization ahead with the
+latest open source tools and security practices.
+
+---
+
+## Our Expertise
+
+**Remote & On-Site Services:**
+- Remote infrastructure management
+- Software maintenance and fault rectification
+- System recovery and hardening (ISM-compliant)
+
+**Email & Data Platforms:**
+- Postfix, Sendmail, Dovecot
+- PostgreSQL, MySQL/MariaDB
+
+**Core Services:**
+- OpenLDAP, BIND/DNS
+- Samba-SMB/CIFS, Active Directory
+- Apache, Squid
+
+**Virtualization & Cloud:**
+- Qemu/KVM, LXC, OpenVZ, Docker, Proxmox
+- Linux-on-Cloud (AWS, Google, Azure, Digital Ocean)
+- Legacy Unix platform support and migration
+
+**Development Expertise:**
 - Python, C/C++
 
 {{<services>}}
