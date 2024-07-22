@@ -54,7 +54,7 @@ enableEmoji = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Cyber IT Solutions"
+    copyright = "© Cyber IT Solutions Pty Ltd"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -65,7 +65,7 @@ enableEmoji = true
 
     [params.footer]
     # Show contact icons for email/phone (if specified) in the footer of the page
-    showContactIcons = false
+    showContactIcons = true
 
     # Show links indicated with footer_menu and footer_menu_title in the footer of the page
     showFooterLinks = false
@@ -84,6 +84,12 @@ enableEmoji = true
         value = "info@cyber.com.au"
         url = "mailto:info@cyber.com.au"
         icon = "fa fa-envelope"
+
+    [[params.contacts]]
+        label = "address"
+        value = "P.O.Box 5178, Hughesdale, Vic 3166, Australia"
+        #url = ""
+        icon = "fa fa-map-pin"
 
     # Add additional contacts here!
     # [[params.contacts]]
