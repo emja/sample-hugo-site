@@ -1,5 +1,5 @@
 ---
-title: "Clients"
+title: "Client Showcase"
 weight: 4
 header_menu: true
 ---
