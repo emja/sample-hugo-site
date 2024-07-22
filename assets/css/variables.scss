@@ -85,3 +85,20 @@ div.service-section-item {
 iframe {
     border-radius: 1em;
 }
+
+article#clients {
+  & ul {
+    display: flex;
+    flex-flow: wrap;
+    align-content: flex-start;
+  }
+  & li {
+    flex: 1;
+    margin: 1em;
+    min-width: 147px;
+
+    & span {
+      display: none;
+    }
+  }
+}
