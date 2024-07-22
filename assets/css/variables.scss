@@ -48,6 +48,21 @@
 }
 
 /* FIXME: This is not the right place for this! */
+
 div.service-section {
+    display: flex;
+
+}
+div.service-section-item {
     background-color: white;
+    flex: 1 1 auto;
+
+    border-radius: 1em;
+    padding: 1em;
+    margin: 1em;
+}
+
+div.service-section-item img {
+  padding: 1em;
+  border-radius: 2em;
 }
