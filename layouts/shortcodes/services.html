@@ -1,9 +1,11 @@
 {{ $services := .Site.GetPage "/services" }}
 
-{{ range $services.Pages }}
-  <div class="service-section">
+<div class="service-section">
+  {{ range $services.Pages }}
+  <div class="service-section-item">
     <img src="{{ .Params.service_image }}" />
     <h3>{{ .Title }}</h3>
     {{ .Content }}
   </div>
-{{ end }}
+  {{ end }}
+</div>
