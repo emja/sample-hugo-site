@@ -51,20 +51,36 @@
 
 div.service-section {
     display: flex;
-    flex-flow: wrap;
-
+    flex-flow: row wrap;
 }
 div.service-section-item {
     background-color: white;
     flex: 1;
-    min-width: 150px;
+    min-width: 170px;
 
     border-radius: 1em;
     padding: 1em;
-    margin: 1em;
+    margin: 0.5em;
+
+    & img {
+        margin: auto;
+        border-radius: 1em;
+    }
+
+    & h3 {
+        margin-top: 1em;
+        font-size: 2.5rem;
+        text-align: center;
+    }
+
+    & p {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
 }
 
-div.service-section-item img {
-  padding: 1em;
-  border-radius: 2em;
+@media (min-width: 992px) {
+    .post {
+        max-width: 66.66% !important;
+    }
 }
