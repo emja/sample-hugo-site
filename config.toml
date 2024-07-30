@@ -17,6 +17,10 @@ title = "Cyber IT Solutions"
 # enable emoji processing in Markdown (valid only for pure markdown content)
 enableEmoji = true
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-P9SJDVF9E9'
+
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
 

@@ -43,3 +43,6 @@
 {{ range seq 9 4 }}{{ $size := pow 2 . }}{{ $file := replace "images/favicon-##x##.png" "##" $size }}{{ with resources.Get $file }}
 <link rel="icon" type="{{ .MediaType.Type }}" sizes="{{- $size -}}x{{- $size -}}" href="{{ .RelPermalink }}" />{{ end }}{{ end }}
 
+{{ if .Site.Config.Services.GoogleAnalytics }}
+  {{ template "_internal/google_analytics.html" . }}
+{{ end }}
